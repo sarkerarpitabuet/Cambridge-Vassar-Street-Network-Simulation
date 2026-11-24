@@ -1,4 +1,4 @@
-# Cambridge-Vassar-Street-Network-Simulation-
+# Cambridge-Vassar-Street-Network-Simulation
 Cambridge–Vassar Street Network Simulation using PTV VISSIM
 ## Cambridge–Vassar Street Network Simulation Using PTV VISSIM
 
